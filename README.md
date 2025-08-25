@@ -14,6 +14,14 @@ A modern landing page for **TaskFlow**, built with **React, Tailwind CSS, Framer
 - **Framer Motion**  
 - **React Icons**  
 
+## 👨‍💻 Author
+
+**Abdul Muheet Ghouri**
+
+## 📄 License
+
+**This project is licensed under the MIT License and created for the Elevvo Pathaway Internship Program.**
+
 ## 📦 Installation
 ```bash
 # Clone repo
@@ -28,10 +36,7 @@ npm install
 # Run development server
 npm run dev
 
-## 👨‍💻 Author
 
-**Abdul Muheet Ghouri**
 
-## 📄 License
 
-**This project is licensed under the MIT License and created for the Elevvo Pathaway Internship Program.**
+
